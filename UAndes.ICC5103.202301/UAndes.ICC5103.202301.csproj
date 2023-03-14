@@ -173,6 +173,7 @@
       <DependentUpon>InscripcionesBrDbModel.edmx</DependentUpon>
       <LastGenOutput>InscripcionesBrDbModel.cs</LastGenOutput>
     </Content>
+    <Content Include="Screenshots\Screenshot1.JPG" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <EntityDeploy Include="Models\InscripcionesBrDbModel.edmx">
@@ -193,6 +194,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="SQL\Database.sql" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
